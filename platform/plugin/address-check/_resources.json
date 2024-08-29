@@ -1,0 +1,9 @@
+{
+    "$id": "checkDuplicateAddress",
+    "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+    "globals": {
+        "apiKey": "${{apiKey}}",
+        "businessId": "${{businessId}}"
+    }
+  }
+  
